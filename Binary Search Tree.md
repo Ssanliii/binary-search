@@ -17,4 +17,4 @@
 
 `````
 
-[patika.dev](ttps://www.patika.dev/)
+[patika.dev](https://www.patika.dev/)
